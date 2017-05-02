@@ -1,0 +1,93 @@
+body {
+  background  : white;
+  font-family : 'frutigernextlt',
+                Fallback,
+                sans-serif;
+}
+
+.masthead {
+  z-index    : 50;
+  position   : relative;
+  background : white;
+}
+
+.account-masthead {
+  background : white;
+}
+
+.account-masthead .account ul li a {
+  color : black;
+}
+
+.homepage .module-search .module-content {
+  background-color : #D31013;
+}
+
+.homepage .module-search {
+  margin  : 0;
+  padding : 0;
+}
+
+.account-masthead .account ul li a:hover {
+  color            : black;
+  background-color : none;
+  text-decoration  : none;
+}
+
+.homepage .module-search .tags {
+  background-color : #990000;
+}
+
+.masthead .nav>.active>a,
+.masthead .nav>.active>a:focus,
+.masthead .nav>.active>a:hover,
+.masthead .nav>li>a,
+.masthead .nav>li>a:focus,
+.masthead .nav>li>a:hover {
+  color            : #fff;
+  border-radius    : 0;
+  background-color : black;
+  text-transform   : uppercase;
+  text-shadow      : none;
+}
+
+.masthead .navigation .nav-pills li.active a,
+.masthead .navigation .nav-pills li a:hover {
+  background-color : #D31013;
+}
+
+.masthead input[type="text"] {
+  border-color : black;
+}
+
+.masthead input[type="text"]:focus {
+  -webkit-box-shadow : inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
+  box-shadow         : inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
+}
+
+.account-masthead .account ul li a:hover {
+  background : none;
+}
+
+.hero {
+  background : url("/base/images/bg-image.jpg");
+}
+
+.media-image {
+  background : url("/base/images/featured-img.jpg");
+}
+
+.site-footer,
+body {
+  background-color : black;
+}
+
+.site-footer,
+.site-footer label,
+.site-footer small {
+  color : #999999;
+}
+
+.site-footer a {
+  color : white;
+}
