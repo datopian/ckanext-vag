@@ -142,3 +142,33 @@
     font-style: normal;
 
 }
+
+
+@font-face {
+    font-family: 'frutigernextlt_black_condRg';
+    src: url('frutigernextltblackcond-webfont.eot');
+    src: url('frutigernextltblackcond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frutigernextltblackcond-webfont.woff2') format('woff2'),
+         url('frutigernextltblackcond-webfont.woff') format('woff'),
+         url('frutigernextltblackcond-webfont.ttf') format('truetype'),
+         url('frutigernextltblackcond-webfont.svg#frutigernextlt_black_condRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'frutigernextlt_condbold';
+    src: url('frutigernextltboldcond-webfont.eot');
+    src: url('frutigernextltboldcond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('frutigernextltboldcond-webfont.woff2') format('woff2'),
+         url('frutigernextltboldcond-webfont.woff') format('woff'),
+         url('frutigernextltboldcond-webfont.ttf') format('truetype'),
+         url('frutigernextltboldcond-webfont.svg#frutigernextlt_condbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

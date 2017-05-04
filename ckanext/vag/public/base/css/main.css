@@ -1,103 +1,92 @@
 body {
-  background  : white;
-  font-family : 'frutigernextlt',
-                Fallback,
-                sans-serif;
+  background: white;
+  font-family: 'frutigernextlt', Fallback, sans-serif;
 }
 
 .masthead {
-  z-index    : 50;
-  position   : relative;
-  background : white;
+  z-index: 50;
+  position: relative;
+  background: white;
 }
 
 .account-masthead {
-  background : white;
+  background: white;
 }
 
 .account-masthead .account ul li a {
-  color : black;
+  color: black;
 }
 
 .homepage .module-search .module-content {
-  background-color : #D31013;
+  background-color: #D31013;
 }
 
 .homepage .module-search {
-  margin  : 0;
-  padding : 0;
+  margin: 0;
+  padding: 0;
 }
 
 .navbar .nav {
-  margin      : 0;
-  font-weight : 600;
+  margin: 0;
+  font-family: 'frutigernextlt_condbold';
 }
 
 .account-masthead .account ul li a:hover {
-  color            : black;
-  background-color : none;
-  text-decoration  : none;
+  color: black;
+  background-color: none;
+  text-decoration: none;
 }
 
 .homepage .module-search .tags {
-  background-color : #990000;
+  background-color: #990000;
 }
 
 .masthead .site-search input {
-  width   : 145px;
-  padding : 6px 8px;
+  width: 145px;
+  padding: 6px 8px;
 }
 
-.masthead .nav>.active>a,
-.masthead .nav>.active>a:focus,
-.masthead .nav>.active>a:hover,
-.masthead .nav>li>a,
-.masthead .nav>li>a:focus,
-.masthead .nav>li>a:hover {
-  color            : #fff;
-  border-radius    : 0;
-  background-color : black;
-  text-shadow      : none;
-  font-size        : 1.2em;
+.masthead .nav>.active>a, .masthead .nav>.active>a:focus, .masthead .nav>.active>a:hover, .masthead .nav>li>a, .masthead .nav>li>a:focus, .masthead .nav>li>a:hover {
+  color: #fff;
+  border-radius: 0;
+  background-color: black;
+  text-shadow: none;
+  font-size: 1.3em;
 }
 
-.masthead .navigation .nav-pills li.active a,
-.masthead .navigation .nav-pills li a:hover {
-  background-color : #D31013;
+.masthead .navigation .nav-pills li.active a, .masthead .navigation .nav-pills li a:hover {
+  background-color: #D31013;
 }
 
 .masthead input[type="text"] {
-  border-color : black;
+  border-color: black;
 }
 
 .masthead input[type="text"]:focus {
-  -webkit-box-shadow : inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
-  box-shadow         : inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.7);
 }
 
 .account-masthead .account ul li a:hover {
-  background : none;
+  background: none;
 }
 
 .hero {
-  background : url("/base/images/bg-image.jpg");
+  background: url("/base/images/bg-image.jpg");
 }
 
 .media-image {
-  background : url("/base/images/featured-img.jpg");
+  background: url("/base/images/featured-img.jpg");
 }
 
-.site-footer,
-body {
-  background-color : black;
+.site-footer, body {
+  background-color: black;
 }
 
-.site-footer,
-.site-footer label,
-.site-footer small {
-  color : #999999;
+.site-footer, .site-footer label, .site-footer small {
+  color: #999999;
 }
 
 .site-footer a {
-  color : white;
+  color: white;
 }
