@@ -1,0 +1,17 @@
+{% extends "page.html" %}
+
+{% block subtitle %}{{ _('Real time') }}{% endblock %}
+
+{% block breadcrumb_content %}
+  <li class="active">{% link_for _('Real time'), controller='real_time_widget', action='real_time_widget' %}</li>
+{% endblock %}
+
+{% block primary %}
+  <article class="module">
+    <div class="module-content">
+      
+    </div>
+  </article>
+{% endblock %}
+
+{% block secondary %}{% endblock %}
