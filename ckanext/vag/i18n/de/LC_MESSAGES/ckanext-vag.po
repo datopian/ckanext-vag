@@ -48,6 +48,6 @@ msgid ""
 msgstr ""
 
 #: ckan/templates/home/snippets/search.html:2
-msgid "E.g. Real time"
+msgid "E.g. environment"
 msgstr "z.B. Echtzeit"
 
