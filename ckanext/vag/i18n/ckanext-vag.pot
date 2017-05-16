@@ -1,0 +1,47 @@
+# Translations template for ckanext-vag.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the ckanext-vag project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-vag 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-05-16 14:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: ckanext/vag/templates/footer.html:9
+msgid "About {0}"
+msgstr ""
+
+#: ckanext/vag/templates/footer.html:20
+msgid "CKAN API"
+msgstr ""
+
+#: ckanext/vag/templates/footer.html:21
+msgid "CKAN Association"
+msgstr ""
+
+#: ckanext/vag/templates/footer.html:29
+msgid ""
+"<strong>Powered by</strong> <a class=\"hide-text ckan-footer-logo\" "
+"href=\"http://ckan.org\">CKAN</a>"
+msgstr ""
+
+#: ckanext/vag/templates/home/snippets/promoted.html:8
+msgid "Welcome to VAG"
+msgstr ""
+
+#: ckanext/vag/templates/home/snippets/promoted.html:10
+msgid ""
+"This is a nice introductory paragraph about CKAN or the site in general. We "
+"don't have any copy to go here yet but soon we will "
+msgstr ""
+
