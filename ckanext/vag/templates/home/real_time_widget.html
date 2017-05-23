@@ -3,7 +3,7 @@
 {% block subtitle %}{{ _('Real time') }}{% endblock %}
 
 {% block breadcrumb_content %}
-  <li class="active">{% link_for _('Real time'), controller='real_time_widget', action='real_time_widget' %}</li>
+  <li class="active">{% link_for _('Real time'), controller='ckanext.vag.controllers.widget:RealTimeWidgetController', action='real_time_widget' %}</li>
 {% endblock %}
 
 {% block primary %}
