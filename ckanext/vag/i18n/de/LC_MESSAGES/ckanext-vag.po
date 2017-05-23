@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-vag 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-16 15:19+0200\n"
-"PO-Revision-Date: 2017-05-16 15:19+0200\n"
+"POT-Creation-Date: 2017-05-23 15:24+0200\n"
+"PO-Revision-Date: 2017-05-23 15:38+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -37,6 +37,26 @@ msgid ""
 "href=\"http://ckan.org\">CKAN</a>"
 msgstr ""
 
+#: ckanext/vag/templates/home/real_time_widget.html:3
+#: ckanext/vag/templates/home/real_time_widget.html:6
+msgid "Real time"
+msgstr "Echtzeit-Widget"
+
+#: ckanext/vag/templates/home/real_time_widget.html:12
+msgid ""
+" <p>Professioneller Echtzeit-Abfahrtsmonitor für definierbare "
+"Haltestellen. Dieser stellt ein Beispiel für die Nutzung unserer "
+"Schnittstelle \"Fahrplan | Echtzeitabfahrtsmonitor: "
+"Schnittstellenbeschreibung API\" dar (http://opendata.vag.de/dataset/api-"
+"echtzeitauskunft).</p> <p>Installationshandbuch zum <a "
+"href=\"https://nergie.l2.ckan.io/de/dataset/1863c0ee-9415-4c53-adae-"
+"822ab72bc602/resource/41437f27-101b-4fa2-bf73-c8f31b4a3560/download/  "
+"installationshandbuch-profi-widget-v0.4.pdf\">Download</a> </p> <p><a "
+"href=\"https://nergie.l2.ckan.io/de/dataset/1863c0ee-9415-4c53-adae-"
+"822ab72bc602/resource/f459af2a-c02d-4ac9-82d7-e73406e6b611/download/vag-"
+"profi-widget.msi\">Programmdatei</a></p> "
+msgstr ""
+
 #: ckanext/vag/templates/home/snippets/promoted.html:8
 msgid "Welcome to VAG"
 msgstr ""
@@ -46,8 +66,4 @@ msgid ""
 "This is a nice introductory paragraph about CKAN or the site in general. "
 "We don't have any copy to go here yet but soon we will "
 msgstr ""
-
-#: ckan/templates/home/snippets/search.html:2
-msgid "E.g. environment"
-msgstr "z.B. Echtzeit"
 
