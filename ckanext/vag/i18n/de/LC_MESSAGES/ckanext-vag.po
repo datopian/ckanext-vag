@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ckanext-vag 0.0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-23 15:52+0200\n"
-"PO-Revision-Date: 2017-05-23 15:59+0200\n"
+"PO-Revision-Date: 2017-05-23 16:06+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
 "Language-Team: de <LL@li.org>\n"
@@ -37,25 +37,9 @@ msgid ""
 "href=\"http://ckan.org\">CKAN</a>"
 msgstr ""
 
-#: ckanext/vag/templates/header.html:17
-msgid "Datasets"
-msgstr ""
-
-#: ckanext/vag/templates/header.html:18
-msgid "Organizations"
-msgstr ""
-
-#: ckanext/vag/templates/header.html:19
-msgid "Groups"
-msgstr ""
-
 #: ckanext/vag/templates/header.html:20
 msgid "Real time widget"
 msgstr "Echtzeit-Widget"
-
-#: ckanext/vag/templates/header.html:21
-msgid "About"
-msgstr ""
 
 #: ckanext/vag/templates/home/real_time_widget.html:3
 #: ckanext/vag/templates/home/real_time_widget.html:6
