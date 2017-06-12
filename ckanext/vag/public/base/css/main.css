@@ -106,3 +106,19 @@ body {
 .site-footer a {
   color : white;
 }
+@media (max-width: 768px) {
+    .homepage .stats ul li{
+        float: none;
+    }
+}
+.media-heading {
+   font-size: 18px;
+   line-height: 1.3;
+   margin: 5px 0;
+   ms-word-break:  keep-all;
+   webkit-hyphens:  keep-all;
+   moz-hyphens:  keep-all;
+   ms-hyphens:  keep-all;
+   hyphens:  keep-all;
+   word-break: keep-all;
+}
