@@ -106,3 +106,8 @@ body {
 .site-footer a {
   color : white;
 }
+@media (max-width: 768px) {
+    .homepage .stats ul li{
+        float: none;
+    }
+}
