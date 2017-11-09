@@ -8,10 +8,11 @@
           {% block footer_links %}
           <li><a href="{{ h.url_for(controller='home', action='about') }}">{{ _('About {0}').format(g.site_title) }}</a></li>
           {% endblock %}
+          {% set url = g.site_url %}
         </ul>
         <ul class="unstyled">
-          <li><a href="http://nergie.l2.ckan.io/pages/impressum">Impressum</a></li>
-          <li><a href="http://nergie.l2.ckan.io/pages/datenschutzerklarung">Datenschutzerklärung</a></li>
+          <li><a href="{{ url }}/pages/impressum">Impressum</a></li>
+          <li><a href="{{ url }}/pages/datenschutzerklarung">Datenschutzerklärung</a></li>
         </ul>
       </div>
       <div class="span4 footer-links">
